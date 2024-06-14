@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='dinjectorr',
-    version='0.1.2',
+    version='0.1.3',
     packages=find_packages(),
     description='A simple dependency injector for Python',
     long_description=open('README.md').read(),
