@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='dinjector',
+    name='dinjectorr',
     version='0.1.0',
     packages=find_packages(),
     description='A simple dependency injector for Python',
@@ -9,7 +9,7 @@ setup(
     long_description_content_type='text/markdown',
     author='DMYTRO IVANOV',
     author_email='dima.ivanov.py@gmail.com',
-    url='https://github.com/dmtno/dinjector',
+    url='https://github.com/dmtno/dinjectorr',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
