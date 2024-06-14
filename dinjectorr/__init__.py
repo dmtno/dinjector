@@ -1,1 +1,2 @@
-from dinjectorr.injector import Injector, inject
+from dinjectorr.injector import Injector
+from dinjectorr.inject import inject
