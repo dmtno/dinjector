@@ -1,7 +1,7 @@
 from functools import wraps
 from typing import get_type_hints
 
-from dinjector.injector import Injector
+from dinjectorr.injector import Injector
 
 
 def inject(method):
