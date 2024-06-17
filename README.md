@@ -47,7 +47,7 @@ client.print_api_key()
 ```
 Example 3:
 ```python
-from dinjectorr import Injector
+from dinjectorr import inject, Injector
 
 class Client:
     def __init__(self, api_key: str):
@@ -69,7 +69,7 @@ custom_client.print_api_key()
 ```
 Example 4:
 ```python
-from dinjectorr import Injector
+from dinjectorr import inject, Injector
 
 class Client:
     def __init__(self, api_key: str):
